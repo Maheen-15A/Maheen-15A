@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Maheen 👋
 
-<!--
-**Maheen-15A/Maheen-15A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**CSE Student at Tejgaon College | Competitive Programmer**
 
-Here are some ideas to get you started:
+Also known as "Maheen_15A" on other platforms
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔹 Coding Profiles
+- [Beecrowd](https://judge.beecrowd.com/en/profile/1097624)
+- [Codeforces](https://codeforces.com/profile/Maheen_15A)
+- [codechef](https://www.codechef.com/users/maheen_15a)
+- [AtCoder](https://atcoder.jp/users/Maheen_15A)
+- [UVA (uHunt)](https://uhunt.onlinejudge.org/id/1719371)
+
+---
+
+## 🔹 Skills
+- Languages: C, C++
+- Problem Solving & Competitive Programming
+
+---
+
+## 🔹 Contact
+- Email: mahin2022f@gmail.com
+
