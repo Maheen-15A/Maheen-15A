@@ -2,7 +2,7 @@
 
 **CSE Student at Tejgaon College | Competitive Programmer**
 
-Also known as "Maheen_15A" on other platforms
+Also known as `Maheen_15A` on other platforms
 
 ---
 
